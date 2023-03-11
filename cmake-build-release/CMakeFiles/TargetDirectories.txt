@@ -1,3 +1,0 @@
-/Users/david/CLionProjects/lab/lab7/cmake-build-release/CMakeFiles/lab7.dir
-/Users/david/CLionProjects/lab/lab7/cmake-build-release/CMakeFiles/edit_cache.dir
-/Users/david/CLionProjects/lab/lab7/cmake-build-release/CMakeFiles/rebuild_cache.dir
